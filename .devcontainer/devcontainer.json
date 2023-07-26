@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "Pipa Copilot Codespace",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
